@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🤖 Manoj RAG Chatbot
 
 An intelligent **Retrieval-Augmented Generation (RAG)** chatbot that delivers accurate, context-aware answers by leveraging custom knowledge stored in MongoDB.
@@ -146,3 +147,7 @@ streamlit run streamlit_runner.py
 Aspiring Data Scientist | Machine Learning Engineer  
 
 ---
+=======
+# manoj-rag-chatbot
+My RAG chatbot
+>>>>>>> 9e7fa0ecb3df34dfc2609a9356efaf6bee310d5f
